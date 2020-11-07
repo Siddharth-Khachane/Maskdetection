@@ -10,4 +10,4 @@ There was a new Problem as Canny had threshold limits and I had to fix a single 
 
 Therefore I implimented the Median method for determining the threshold limits. So each image has different thresholds and thus the Canny Filter applied on it is also unique.
 
-## For further insight, you can refer Understanding.docx
+## For further insight, you can refer Median Thresholding canny.pdf 
